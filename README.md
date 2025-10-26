@@ -40,7 +40,7 @@ Edge AI Deployment
 
 Agentic AI Orchestration
 
-_Benefits_
+**_Benefits_**
 
 Scalable and flexible AI infrastructure
 
@@ -48,11 +48,11 @@ Accessibility for all user levels
 
 Responsible AI governance and cost optimization
 
-**Challenges**
+_**Challenges**_
 
 Key challenges include managing costs, ensuring data privacy, preventing bias, and addressing skill gaps.
 
-**Future Trends**
+_**Future Trends**_
 
 Expect growth in autonomous agents, open-weight models, multimodal AI, domain-specific solutions, and trustworthy AI.
 
